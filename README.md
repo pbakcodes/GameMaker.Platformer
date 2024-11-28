@@ -10,3 +10,6 @@ https://gamemaker.io/pl-PL/tutorials/your-first-platformer
 
 MovementGame official Tutorial
 https://gamemaker.io/pl-PL/tutorials/easy-platformer
+
+ArcadeGame official Tutorial
+https://gamemaker.io/pl-PL/tutorials/make-arcade-space-shooter
