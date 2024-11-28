@@ -7,3 +7,6 @@ https://gamemaker.io/pl-PL/tutorials/gamemaker-resources
 
 FlagGame official Tutorial
 https://gamemaker.io/pl-PL/tutorials/your-first-platformer
+
+MovementGame official Tutorial
+https://gamemaker.io/pl-PL/tutorials/easy-platformer
