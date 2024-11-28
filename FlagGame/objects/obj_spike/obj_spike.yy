@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oSpike",
+  "%Name":"obj_spike",
   "eventList":[],
   "managed":true,
-  "name":"oSpike",
+  "name":"obj_spike",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

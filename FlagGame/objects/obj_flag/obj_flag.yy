@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oFlag",
+  "%Name":"obj_flag",
   "eventList":[],
   "managed":true,
-  "name":"oFlag",
+  "name":"obj_flag",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

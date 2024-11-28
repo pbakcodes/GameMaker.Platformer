@@ -14,7 +14,7 @@ if keyboard_check(vk_right)
 	xsp = +1;
 }
 
-if place_meeting(x, y+1, oSolid)
+if place_meeting(x, y+1, obj_solid)
 {
 	ysp = 0;
 	if keyboard_check(vk_up)
@@ -23,15 +23,15 @@ if place_meeting(x, y+1, oSolid)
 	}
 }
 
-move_and_collide(xsp,  ysp, oSolid)
+move_and_collide(xsp,  ysp, obj_solid)
 
 //Spike and Flag collision
-if place_meeting(x, y, oFlag)
+if place_meeting(x, y, obj_flag)
 {
 	room_goto_next();
 }
 
-if place_meeting(x, y, oSpike)
+if place_meeting(x, y, obj_spike)
 {
 	room_restart();
 }
